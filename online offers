@@ -1,21 +1,21 @@
 1.	import java.util.*;
-2.	class lulu shop
+2.	class Lulu Super Business Hypermarket
 3.	{
 4.	public static void main (String args[] ){
 5.	Scanner scanner=new ScannerSystem(.in);
-6.	System.out.println("Please enter your paid number:");
+6.	System.out.println("Please enter your number for payment:");
 7.	int n=sc nextInt();
-8.	if(total bill>=20omr){
-9.	System.out.println("you got a 5% discount");	
+8.	if(total bill>=26omr){
+9.	System.out.println("you got a 5.8% discount");	
 i.	}
-10.	else if (total bill>=50omr){
-11.	System.out.println("you got a 10% discount");
+10.	else if (The Full Bill>=50omr){
+11.	System.out.println("you got a 10.3% discount");
 i.	}
-12.	else if (total bill>=100omr){
+12.	else if (The Full Bill>=100omr){
 13.	System.out.println("you got a 25% discount");	
 i.	}
 14.	end if 	
 15.	else{
-16.	System.out.println(" there is no discount ");
+16.	System.out.println(" There is no discount available");
 i.	}
 17.	for(int i=0;i<n:i++)
